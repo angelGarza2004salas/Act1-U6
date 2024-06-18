@@ -1,0 +1,16 @@
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\obj\Debug\net8.0-windows\AppPizza_Sales.Form1.resources
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\obj\Debug\net8.0-windows\AppPizza_Sales.vbproj.GenerateResource.cache
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\obj\Debug\net8.0-windows\AppPizza_Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\obj\Debug\net8.0-windows\AppPizza_Sales.AssemblyInfoInputs.cache
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\obj\Debug\net8.0-windows\AppPizza_Sales.AssemblyInfo.vb
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\obj\Debug\net8.0-windows\AppPizza_Sales.vbproj.CoreCompileInputs.cache
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\bin\Debug\net8.0-windows\AppPizza_Sales.exe
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\bin\Debug\net8.0-windows\AppPizza_Sales.deps.json
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\bin\Debug\net8.0-windows\AppPizza_Sales.runtimeconfig.json
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\bin\Debug\net8.0-windows\AppPizza_Sales.dll
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\bin\Debug\net8.0-windows\AppPizza_Sales.pdb
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\obj\Debug\net8.0-windows\AppPizza_Sales.dll
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\obj\Debug\net8.0-windows\refint\AppPizza_Sales.dll
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\obj\Debug\net8.0-windows\AppPizza_Sales.pdb
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\obj\Debug\net8.0-windows\AppPizza_Sales.genruntimeconfig.cache
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\AppPizza_Sales\AppPizza_Sales\obj\Debug\net8.0-windows\ref\AppPizza_Sales.dll
